@@ -1,0 +1,8 @@
+C:\Users\Оля\Desktop\C#\Test1\Test1\bin\Release\Test1.exe.config
+C:\Users\Оля\Desktop\C#\Test1\Test1\bin\Release\Test1.exe
+C:\Users\Оля\Desktop\C#\Test1\Test1\bin\Release\Test1.pdb
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Release\Test1.Form1.resources
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Release\Test1.Properties.Resources.resources
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Release\Test1.csproj.GenerateResource.Cache
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Release\Test1.exe
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Release\Test1.pdb
