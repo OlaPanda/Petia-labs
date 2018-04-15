@@ -16,3 +16,6 @@ C:\Users\Оля\Desktop\Works\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyR
 C:\Users\Оля\Desktop\Works\Test1\Test1\obj\Debug\Test1.Form1.resources
 C:\Users\Оля\Desktop\Works\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
 C:\Users\Оля\Desktop\Works\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+D:\GitHub\Petia-labs\Test1\bin\Debug\Test1.exe.config
+D:\GitHub\Petia-labs\Test1\obj\Debug\Test1.exe
+D:\GitHub\Petia-labs\Test1\obj\Debug\Test1.pdb
